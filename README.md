@@ -40,33 +40,37 @@ _Add a paragraph that gives a summary of the app you implemented. Include screen
 
 Our app's icon in the Android system:
 
-![icon](uploads/dd17ce174513db16e7432b3234091855/icon.png)
-![icon2](uploads/6567cbcf1bdd5a9284d406299ea53946/icon2.png)
+![icon](https://user-images.githubusercontent.com/62017108/116249889-98870400-a7b0-11eb-997e-8f9d278ccbc4.png)
+![icon2](https://user-images.githubusercontent.com/62017108/116249895-99b83100-a7b0-11eb-8059-479785a339d0.png)
+
 
 The splash screen when the user opens the app:
 
-![splash](uploads/dacc01f5881a6946c7489ede81f41bd6/splash.png)
+![splash](https://user-images.githubusercontent.com/62017108/116249906-9cb32180-a7b0-11eb-98ca-0dc87e2c4847.png)
+
 
 The main activity of our app that contains the search bar, search button, menu button, a tutorial button and a logo button:
+![main](https://user-images.githubusercontent.com/62017108/116249925-a046a880-a7b0-11eb-990d-bba75cdbaf86.png)
+![query](https://user-images.githubusercontent.com/62017108/116249929-a177d580-a7b0-11eb-9614-c32d3f9c8dc4.png)
 
-![main](uploads/e5ee9332210a6f481142aa3574bb37b1/main.png)
-![query](uploads/f078d6c0dafbdd7d1491bef4d16672e2/query.png)
 
 The result activity that displays all the matching restaurants in a list view. Users can easily click on each item for more information on that restaurant or make another query:
 
-![results](uploads/564378bdeef21c89f524801c8857c149/results.png)
-![details](uploads/ddfdd010a19f24daa522391f088ace90/details.png)
+![results](https://user-images.githubusercontent.com/62017108/116249950-a50b5c80-a7b0-11eb-8b03-c87e2791fd93.png)
+![details](https://user-images.githubusercontent.com/62017108/116249957-a63c8980-a7b0-11eb-9526-fbaf7b519136.png)
+
 
 Users can open the drawer menu by clicking the menu button at the top left corner in the main activity to log in or sign up:
 
-![drawernull](uploads/e18ea4ed7a21a2913bf269d82ad390be/drawernull.png)
-![loggingin](uploads/466041b63d1fb9f4fbd6b59033f7ab86/loggingin.png)
-![signup](uploads/f5ac47aaf239c62e59c311bee9d75584/signup.png)
-![draweruser](uploads/08c699245439af4efe03bfe5f821715c/draweruser.png)
+![drawernull](https://user-images.githubusercontent.com/62017108/116249978-ac326a80-a7b0-11eb-9a33-c944f3fd6453.png)
+![loggingin](https://user-images.githubusercontent.com/62017108/116249984-ad639780-a7b0-11eb-80cc-7829372feba7.png)
+![signup](https://user-images.githubusercontent.com/62017108/116249987-adfc2e00-a7b0-11eb-972e-77fcfbeb6121.png)
+![draweruser](https://user-images.githubusercontent.com/62017108/116249991-af2d5b00-a7b0-11eb-8918-e73c90b8fc7a.png)
+
 
 The logo button in the main activity opens a page about the developers of this app:
 
-![info](uploads/a8ec1f257cc6b71c84cde20beacf6b17/info.png)
+![info](https://user-images.githubusercontent.com/62017108/116250003-b18fb500-a7b0-11eb-8ea8-78a9f8b0efc4.png)
 
 Some landscape version screenshots of our app:
 
