@@ -258,9 +258,6 @@ _Our team utilize WeChat to have constant communications and discussions, and we
  
  - Sixth meeting (TBD): ...
 
-## [](#git-commit-history)Git Commit History
-
-[Commit History](https://gitlab.cecs.anu.edu.au/u7076870/comp2100_6442_s2_2020_group_project/-/commits/master)
 
 ## [](#statement-of-originality)Statement of Originality
 
