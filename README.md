@@ -74,13 +74,14 @@ The logo button in the main activity opens a page about the developers of this a
 
 Some landscape version screenshots of our app:
 
-![mainL](uploads/11324752b2e4ba40d8454d7c16b5cdd3/mainL.png)
-![resultsL](uploads/c72aa6e4f342da2cfbb73a03d11c217c/resultsL.png)
-![detailsL](uploads/e4a460af4ad27e700d7356f3d60df0a0/detailsL.png)
-![drawernullL](uploads/fbf61b81057efc8b3bbffc2070055d1b/drawernullL.png)
-![loginL](uploads/e8d36c872915796f544b006f188fae91/loginL.png)
-![signupL](uploads/a01f16faf46f39c87a02fce45fc8cfda/signupL.png)
-![draweruserL](uploads/7737f12d2a80a3d8850c8270d10982d1/draweruserL.png)
+![mainL](https://user-images.githubusercontent.com/62017108/116250205-dd129f80-a7b0-11eb-8b41-ef39d2f29659.png)
+![resultsL](https://user-images.githubusercontent.com/62017108/116250210-ddab3600-a7b0-11eb-8e50-82cb25ee8362.png)
+![detailsL](https://user-images.githubusercontent.com/62017108/116250213-dedc6300-a7b0-11eb-9e19-5bf0021e6a3c.png)
+![drawernullL](https://user-images.githubusercontent.com/62017108/116250218-e00d9000-a7b0-11eb-8295-5de52cb857cf.png)
+![loginL](https://user-images.githubusercontent.com/62017108/116250223-e0a62680-a7b0-11eb-8e43-529b277e827a.png)
+![signupL](https://user-images.githubusercontent.com/62017108/116250224-e1d75380-a7b0-11eb-8c03-1aa9c8296917.png)
+![draweruserL](https://user-images.githubusercontent.com/62017108/116250230-e3088080-a7b0-11eb-82f6-f423d7d4aeec.png)
+
 
 
 ## [](#app-implemented-features)App Implemented Features
