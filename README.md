@@ -188,7 +188,8 @@ _A list of implemented surprise features:_
 
 ## [](#testing-summary)Testing Summary
 
-![coverage](uploads/ce150188d12ef9266c6a5bcbbae6a09e/coverage.png)
+![coverage](https://user-images.githubusercontent.com/62017108/116249520-40e89880-a7b0-11eb-8ea0-f1a4c01d12b5.png)
+
 
  - We have five test cases in the tokenizer test to test our tokenizer. 
     - The first test is to test whether _hasNext_ function returns correctly or not. 
