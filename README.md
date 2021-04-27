@@ -1,0 +1,1 @@
+Group project repo for COMP2100/6442 by Fantasty Inc. (see [Wiki](https://gitlab.cecs.anu.edu.au/u7076870/comp2100_6442_s2_2020_group_project/-/wikis/home))

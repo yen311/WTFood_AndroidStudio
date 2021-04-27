@@ -1,0 +1,45 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: the code in Colour, Node, and RBTree is based on the code from Lab 4 Trees of COMP6442-Sem 2 2020
+    url: https://gitlab.cecs.anu.edu.au/u1064702/comp2100_6442_s2_2020
+    licence: The Australian National University
+  - comment: the code in Tokenizer, MyTokenizer, Token and Parser is based on the code from Lab 5 Parsing of COMP6442-Sem 2 2020
+    url: https://gitlab.cecs.anu.edu.au/u1064702/comp2100_6442_s2_2020
+    licence: The Australian National University
+  - comment: the code of GPS in ResultActivity is based on the code from CSDN.
+    url: https://blog.csdn.net/fahaia/article/details/81982161
+    licence: CC 4.0 BY-SA (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: Icons by Icons8
+    url: https://icons8.com/
+    licence: Free License
+  - comment: Logos designed in Placeit
+    url: https://placeit.net/
+    licence: Placeit License - https://placeit.net/#license
+  - comment: Restaurant Names
+    url: https://data.world/adamhelsinger/austin-restaurant-inspections
+    licence: Public Domain
+
+
+  # sign *your* name and uid here
+- name: Chan Xu
+  uid: u7076870
+- name: Junliang Liu
+  uid: u7096757
+- name: Lili Chen
+  uid: u6004244
+- name: Yen Kuo
+  uid: u7075575
